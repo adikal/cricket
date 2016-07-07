@@ -13,6 +13,9 @@ Download it here:
 
 	https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/1.0.19/
 
+Then, create a "lib" folder in the root project ("cricket") and copy these 2 jars inside the lib directory:
+1. jcommon-1.0.23.jar
+2. jfreechart-1.0.19.jar
 
 *** USAGE ***
 
