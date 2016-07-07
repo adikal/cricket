@@ -21,5 +21,7 @@ Then, create a "lib" folder in the root project ("cricket") and copy these 2 jar
 
 To run the code, use TestAIEngine.java (in the package test.cricket.aiengine). 
 
-See usage options inside the class.
+See usage options inside the class. 
+
+The default run configuration (i.e. with no arguments specified) simulates one T20 match between India and Australia and displays graphs with stats at the end.
 
