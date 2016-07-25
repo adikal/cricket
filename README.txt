@@ -20,3 +20,10 @@ See usage options inside the class.
 
 The default run configuration (i.e. with no arguments specified) simulates one T20 match between India and Australia and displays graphs with stats at the end.
 
+UPDATE: There is now a "build" folder with a pre-packaged JAR file (cricket.jar)
+
+To run the app, navigate to the build folder and type:
+
+	java -cp cricket.jar cricket.aiengine.TestAIEngine play [N]
+	
+	where N = number of overs you wish to simulate (e.g. N=10 for a 10 over match)
