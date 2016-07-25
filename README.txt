@@ -7,15 +7,10 @@ For more details, see this blog post:
 
 *** REQUIREMENTS ***
 
-The code uses JFreeChart (v1.0.19) to display graphs for game statistics. 
+The code uses Maven to manage dependencies. See the pom.xml file for dependency information. 
 
-Download it here: 
+In particular, it uses the JFreeChart package to display graphs for various cricket-themed stats.
 
-	https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/1.0.19/
-
-Then, create a "lib" folder in the root project ("cricket") and copy these 2 jars inside the lib directory:
-1. jcommon-1.0.23.jar
-2. jfreechart-1.0.19.jar
 
 *** USAGE ***
 
