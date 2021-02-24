@@ -1,4 +1,4 @@
-The code, written in pure Java, implements an AI engine for the game of Cricket based on Monte Carlo Tree Search. 
+The code implements an AI engine for the game of Cricket based on Monte Carlo Tree Search. 
 
 For more details, see this blog post: 
 
